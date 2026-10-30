@@ -1,0 +1,5 @@
+signature,genes_used,n_R,n_NR,median_R,median_NR,p,fdr
+CD8 cytotoxicity,9,6,7,0.721,0.595,0.534,0.534
+CD8 exhaustion,8,6,7,-0.087,-0.447,0.073,0.135
+CD8 costimulation,7,6,7,0.029,-0.118,0.101,0.135
+Myeloid type I IFN,15,5,6,0.242,-0.023,0.052,0.135

@@ -1,0 +1,23 @@
+,cell_type,lineage,confidence,evidence,cells
+0,T cell (stress response),T/NK,medium,"heat-shock genes (HSPA1A, DNAJB1) on a CD3E+ IL7R+ GZMK+ background",2075
+1,Plasma cell,B/plasma,high,"MZB1, JCHAIN, IGKC, IGHG1, XBP1",305
+2,Regulatory T cell,T/NK,high,"FOXP3, CTLA4, TIGIT, BATF, IL2RG",6960
+3,Low-quality lymphocyte,Unresolved,low,"MALAT1, mitochondrial genes; mixed CD8/CD4 signal",1112
+4,CD8 T (GZMK+ effector memory),T/NK,high,"CD8A, CD8B, GZMK, CCL5, NKG7",8758
+5,CD4 T (IL7R+ memory),T/NK,medium,"IL7R, CD3E, CD69, low CD8A",10006
+6,CD4 T (naive/central memory),T/NK,medium,"CCR7, TCF7, IL7R; ribosomal-high",7139
+7,"CD4 T (CXCL13+ PD-1+, Tph-like)",T/NK,medium,"CXCL13, PDCD1, TOX, TIGIT, ITM2A; CD8A low",1453
+8,"CD8 T (cytotoxic, exhausted-like)",T/NK,high,"CD8A, NKG7, GZMK, GZMB, LAG3, HAVCR2, PDCD1, TOX",15266
+9,Macrophage (C1Q+),Myeloid,high,"C1QA, APOE, CD68, CD163, MS4A6A, HLA-DR",9762
+10,Mature DC (LAMP3+ CCR7+),Myeloid,high,"LAMP3, CCR7, CD83, HLA-DQA1",237
+11,Plasmacytoid DC,Myeloid,high,"LILRA4, IRF7, IRF8, PLD4, IL3RA, GZMB",814
+12,Classical monocyte,Myeloid,high,"LYZ, FCN1, S100A8/9, CD14",2819
+13,Inflammatory myeloid (tiny),Myeloid,low,"IL1B, CXCL1/2/3, SPP1; 11 cells, one patient",11
+14,Proliferating T cell,T/NK,high,"MKI67, STMN1, TUBB, CD3E, CD8A",2254
+15,Melanoma cell,Non-immune,high,"PMEL, MLANA, TYR, GPNMB; PTPRC low",9056
+16,B cell,B/plasma,high,"MS4A1, CD79A, CD79B, BANK1",6235
+17,B cell (germinal-centre-like),B/plasma,medium,"MS4A1, TCL1A, MEF2B, LRMP, POU2AF1",303
+18,Fibroblast,Non-immune,high,"COL1A1, SPARC, FN1, BGN; PTPRC low",1768
+19,NK cell,T/NK,high,"GNLY, KLRD1, NKG7, XCL1/2; CD3E low",549
+20,"CD8 T (GZMK+ HAVCR2+, small)",T/NK,low,"GZMK, CD8B, HAVCR2, TIGIT; 51 cells",51
+21,Endothelial cell,Non-immune,high,"PECAM1, VWF, PLVAP, RAMP2; PTPRC absent",553

@@ -1,0 +1,14 @@
+patient,age,sex,best_overall_response,pfs_event,pfs_months,tls,response
+1,43.0,M,SD,1.0,3.22,neg,NR
+2,58.0,M,CR,0.0,52.3,neg,R
+3,53.0,M,CR,0.0,47.9,pos,R
+4,44.0,M,SD,1.0,9.23,pos,NR
+5,19.0,M,PD,1.0,1.18,neg,NR
+6,28.0,F,PD,1.0,1.25,,NR
+7,57.0,F,PR,1.0,6.05,pos,R
+8,58.0,M,PR,1.0,6.08,pos,R
+9,68.0,F,PR,1.0,5.59,pos,R
+10,26.0,F,SD,1.0,1.81,neg,NR
+11,40.0,F,PD,1.0,0.95,neg,NR
+12,64.0,F,PD,1.0,1.22,pos,NR
+13,68.0,M,PR,1.0,8.48,pos,R

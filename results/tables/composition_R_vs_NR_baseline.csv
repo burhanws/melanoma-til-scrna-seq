@@ -1,0 +1,17 @@
+cell_type,median_%_R,median_%_NR,p,fdr
+Regulatory T cell,8.833,6.06,0.073,0.732
+Proliferating T cell,3.09,1.085,0.138,0.732
+Mature DC (LAMP3+ CCR7+),0.022,0.241,0.222,0.732
+Macrophage (C1Q+),2.389,29.498,0.234,0.732
+Plasmacytoid DC,0.456,0.766,0.234,0.732
+"CD4 T (CXCL13+ PD-1+, Tph-like)",2.512,1.017,0.295,0.732
+Classical monocyte,0.848,1.225,0.366,0.732
+"CD8 T (cytotoxic, exhausted-like)",25.836,6.366,0.366,0.732
+NK cell,0.188,0.383,0.445,0.792
+CD4 T (IL7R+ memory),8.965,11.021,0.534,0.838
+B cell,3.875,1.473,0.628,0.838
+CD4 T (naive/central memory),6.032,4.1,0.628,0.838
+B cell (germinal-centre-like),0.0,0.0,0.807,0.945
+CD8 T (GZMK+ effector memory),7.712,6.848,0.836,0.945
+Plasma cell,0.162,0.162,0.943,0.945
+T cell (stress response),0.83,0.756,0.945,0.945
